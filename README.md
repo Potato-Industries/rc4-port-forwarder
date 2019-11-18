@@ -34,5 +34,6 @@ Due to the nature of how RC4 encryption works (XOR), the forwarder will encrypt 
 
 The tool can be used in multiple scenarios, encrypt generic port traffic to an RC4 application, decrypt RC4 application traffic to plaintext port or as a insecure/obfuscation TCP port forwarder tool if you run it on both ends. 
 
+<img width="1490" alt="Screenshot 2019-11-18 at 23 22 17" src="https://user-images.githubusercontent.com/56988989/69102448-62d9d980-0a5a-11ea-94c8-a07405e93900.png">
 
 Enjoy~
